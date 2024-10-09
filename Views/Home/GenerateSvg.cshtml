@@ -1,0 +1,44 @@
+﻿@model string
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display SVG</title>
+</head>
+<body>
+    <!-- SVGを表示するためのiframe -->
+    @Html.Raw(Model)
+</body>
+</html>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        user-select: none;
+    }
+
+    body {
+        width: 210mm;
+        color-adjust: exact;
+    }
+
+        body > svg {
+            width: 210mm;
+            height: 295.5mm; /* 297mmだと2ページ目にはみ出してしまうので微調整 */
+            page-break-after: always;
+        }
+
+</style>
+<script src="/js/site.js"></script>
+<script>
+
+    // 複数の処理をまとめて実行する
+    window.onload = function () {
+        resizeTextToFit();
+        updateTextPositions();
+    };
+
+    // ウィンドウサイズ変更時にもフォントサイズを再調整
+    window.addEventListener('resize', resizeTextToFit);
+</script>
