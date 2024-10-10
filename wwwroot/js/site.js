@@ -2,7 +2,7 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
-  function updateTextPositions() {
+function updateTextPositions() {
     // idが"_Text"で終わる<text>タグをすべて取得
     const textElements = document.querySelectorAll('text[id$="_Text"]');
 
@@ -12,35 +12,43 @@
         const textLength = parseFloat($this.getAttribute('textLength')) || 0;
 
         // 現在のtransformのtranslate(x, y)を取得
-        const transform = $this.getAttribute('transform');
-        const w = $this.clientWidth
-
-     
+        const transform = $this.getAttribute('transform');   
         const x = $this.getAttribute('transform').match(/translate\(([^ ]+) .+\)/)[1] ?? 0
-        // 中央寄せ
-        if (textAnchor === 'middle') {
-            const newTransform = $this.getAttribute('transform').replace(/translate\([^ ]+ (.+)\)/, `translate(${parseFloat(x) + parseFloat(textLength / 2)} $1)`)
-            $this.setAttribute('transform', newTransform)
-        }
+        
+        if (textLength != 0) {
+            // 中央寄せ
+            if (textAnchor === 'middle') {
+                const newTransform = $this.getAttribute('transform').replace(/translate\([^ ]+ (.+)\)/, `translate(${parseFloat(x) + parseFloat(textLength / 2)} $1)`)
+                $this.setAttribute('transform', newTransform)
+            }
 
-        // 右寄せ
-        if (textAnchor === 'end') {
-            const newTransform = $this.getAttribute('transform').replace(/translate\([^ ]+ (.+)\)/, `translate(${parseFloat(x) + parseFloat(textLength)} $1)`)
-            $this.setAttribute('transform', newTransform)
+            // 右寄せ
+            if (textAnchor === 'end') {
+
+                const newTransform = $this.getAttribute('transform').replace(/translate\([^ ]+ (.+)\)/, `translate(${parseFloat(x) + parseFloat(215)} $1)`)
+                console.log(newTransform)
+                const newTrnsform = $this.getAttribute('transform').replace(/translate\([^ ]+ (.+)\)/, `translate(${parseFloat(x) + parseFloat(textLength - 20)} $1)`)
+                console.log(newTrnsform)
+                $this.setAttribute('transform', newTransform)
+
+            }
+            // textLengthは不要なので表示時には削除（設定していた場合、textLengthの幅に合わせて文字間隔が大きくなってしまう）
+            $this.removeAttribute('textLength');
         }
-        // textLengthは不要なので表示時には削除（設定していた場合、textLengthの幅に合わせて文字間隔が大きくなってしまう）
-        $this.removeAttribute('textLength');        
+        else {
+            //表示範囲が取れない場合はレイアウトが崩れるので強制左寄せとする
+            $this.removeAttribute('text-anchor');
+        }
     });
 }
 
 function resizeTextToFit() {
     // すべてのg要素(Area)を取得
-    const areas = document.querySelectorAll('g[data-name$="Area"]');
-
+    const areas = document.querySelectorAll('g[id$="Area"]');
     areas.forEach(area => {
         // Areaのidに基づいて対応するtext要素のidを生成 (_小計_ など)
         const areaId = area.getAttribute('id');
-        const textElement = document.querySelector(`#_${areaId.replace("_Area", "")}_`);
+        const textElement = document.querySelector(`#${areaId.replace("_Area", "")}_Text`);
 
         if (textElement) {
             const rectElement = area.querySelector('rect'); // エリア内のrect要素

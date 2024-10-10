@@ -1,7 +1,7 @@
 html {
   font-size: 14px;
 }
-
+/*
 @media (min-width: 768px) {
   html {
     font-size: 16px;
@@ -19,24 +19,39 @@ html {
 
 body {
   margin-bottom: 60px;
-}
+}*/
 
 @page {
     size: A4 portrait;
-    margin: 0; /* ヘッダー・フッターが出力されないように */
+    margin: 0; /* No header/footer margins */
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
 
-/* プレビュー用 */
+body {
+    width: 210mm;
+    color-adjust: exact;
+}
+
+svg {
+    width: 210mm;
+    height: 295.5mm; /* Adjust to prevent overflow */
+    page-break-after: always;
+}
+/* For preview */
 @media screen {
     body {
         background: #ccc;
         margin: 0 auto;
     }
 
-        body > svg {
-            background: #fff;
-            box-shadow: 0 .5mm 2mm rgba(0, 0, 0, .3);
-            margin-top: 5mm;
-        }
+    svg {
+        background: #fff;
+        box-shadow: 0 .5mm 2mm rgba(0,0,0,.3);
+        margin-top: 5mm;
+    }
 }

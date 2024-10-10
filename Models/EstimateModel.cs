@@ -5,7 +5,7 @@ namespace SvgOutputSample.Models
     public class Estimate
     {
 
-        [SvgLength(100)]
+        [DisplayName("顧客名")]
         public string Name { get; set; } // 顧客名
 
         [DisplayName("敬称")]
@@ -32,6 +32,12 @@ namespace SvgOutputSample.Models
         [DisplayName("見積コード")]
         public string EstimateCode { get; set; } // 見積コード
 
+        [DisplayName("合計金額")]
+        public string TotalMoney { get; set; }
+
+        [DisplayName("支店住所")]
+        public string Addres { get; set; }
+
         [SvgTextAnchor(SvgTextAnchorAttribute.End)]
         [DisplayName("小計")]
         public decimal Subtotal { get; set; } = 0; // 小計
@@ -53,7 +59,7 @@ namespace SvgOutputSample.Models
         public string TotalIncludingTax { get; set; }
 
         [DisplayName("備考")]
-        public string Remarks_Text { get; set; }
+        public string Remarks_TextArea { get; set; }
 
         [DisplayName("コメント")]
         public string Comment { get; set; }
@@ -74,9 +80,11 @@ namespace SvgOutputSample.Models
             EstimateCode = $"EST-{DateTime.Now:yyyyMMdd}-001";
             Discount = "10,000";
             Total = "234,000";
+            Addres = "北海道札幌市";
+            TotalMoney = "320,000,000";
             ConsumptionTax = "10,000";
             TotalIncludingTax = "100,000,000,000,000";
-            Remarks_Text = "テステストテストテストテストテストテストテストテストテストテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト" +
+            Remarks_TextArea = "テステストテストテストテストテストテストテストテストテストテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト" +
                 "テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト";
             Comment = "テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト" +
                 "テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト";
@@ -111,9 +119,11 @@ namespace SvgOutputSample.Models
         [DisplayName("単位")]
         public string Unit { get; set; }
 
+        [SvgTextAnchor(SvgTextAnchorAttribute.End)]
         [DisplayName("単価")]
         public string UnitPrice { get; set; }
 
+        [SvgTextAnchor(SvgTextAnchorAttribute.End)]
         [DisplayName("金額")]
         public string Amount { get; set; }
 
