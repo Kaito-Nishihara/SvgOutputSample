@@ -16,7 +16,7 @@
       <rect x="0.5" y="0.5" width="172" height="127.137" fill="none"/>
     </g>
     <image id="user-seal-placeholder1" width="118" height="118" transform="translate(1646 679)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWBAAAAADcmsM/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QADzoyPqMAAAAHdElNRQflBRsMCSgoyJWoAAAAQklEQVRo3u3MMQEAAAwCIPtnM5Ql9g0CkN6Jy+VyuVwul8vlcrlcLpfL5XK5XC6Xy+VyuVwul8vlcrlcLpfL5XpxDbhTBuYaC+lwAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIxLTA1LTI3VDIxOjA5OjQwKzA5OjAwNVSQqAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMS0wNS0yN1QyMTowOTo0MCswOTowMEQJKBQAAAAASUVORK5CYII="/>
-    <g id="長方形_2" data-name="長方形 2" transform="translate(135 2557)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="コメント_Area" data-name="長方形 2" transform="translate(135 2557)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="1830" height="298" stroke="none"/>
       <rect x="0.5" y="0.5" width="1829" height="297" fill="none"/>
     </g>
@@ -104,7 +104,7 @@
     <line id="線_10" data-name="線 10" x2="514" transform="translate(1451.25 388.067)" fill="none" stroke="#000" stroke-width="1"/>
     <text id="見積コード" transform="translate(1471.75 371.125)" font-size="23" font-family="IPAexMincho"><tspan x="0" y="0">見積コード</tspan></text>
     <text id="作成" transform="translate(1850.25 662.119)" font-size="25" font-family="IPAexMincho"><tspan x="0" y="0">作成</tspan></text>
-    <g id="長方形_9" data-name="長方形 9" transform="translate(878 846)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_1_Area" data-name="長方形 9" transform="translate(878 846)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
@@ -112,15 +112,15 @@
       <rect width="55" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
-    <g id="長方形_17" data-name="長方形 17" transform="translate(189 846)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_1_Area" data-name="長方形 17" transform="translate(189 846)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18" data-name="長方形 18" transform="translate(1095 846)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_1_Area" data-name="長方形 18" transform="translate(1095 846)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19" data-name="長方形 19" transform="translate(1373 846)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_1_Area" data-name="長方形 19" transform="translate(1373 846)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
@@ -128,16 +128,16 @@
     <text id="メーカー名" transform="translate(912 882)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">メーカー名</tspan></text>
     <text id="型番" transform="translate(1208 882)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">型番</tspan></text>
     <text id="数量" transform="translate(1384 882)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">数量</tspan></text>
-    <g id="長方形_20" data-name="長方形 20" transform="translate(1451 846)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_1_Area" data-name="長方形 20" transform="translate(1451 846)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="単位" transform="translate(1462 882)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">単位</tspan></text>
-    <g id="長方形_21" data-name="長方形 21" transform="translate(1529 846)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_1_Area" data-name="長方形 21" transform="translate(1529 846)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22" data-name="長方形 22" transform="translate(1732 846)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_1_Area" data-name="長方形 22" transform="translate(1732 846)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -148,34 +148,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_1" data-name="1" transform="translate(153 931)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">1</tspan></text>
-    <g id="長方形_9-2" data-name="長方形 9" transform="translate(878 895)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_2_Area" data-name="長方形 9" transform="translate(878 895)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-2" data-name="長方形 17" transform="translate(189 895)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_2_Area" data-name="長方形 17" transform="translate(189 895)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-2" data-name="長方形 18" transform="translate(1095 895)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_2_Area" data-name="長方形 18" transform="translate(1095 895)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-2" data-name="長方形 19" transform="translate(1373 895)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_2_Area" data-name="長方形 19" transform="translate(1373 895)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_0_Text" data-name="%商品名[0]%" transform="translate(205 931)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[0]%</tspan></text>
     <text id="メーカー名_0_Text" data-name="%メーカー名[0]%" transform="translate(889 931)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[0]%</tspan></text>
     <text id="型番_0_Text" data-name="%型番[0]%" transform="translate(1105 931)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[0]%</tspan></text>
-    <g id="長方形_20-2" data-name="長方形 20" transform="translate(1451 895)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_2_Area" data-name="長方形 20" transform="translate(1451 895)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-2" data-name="長方形 21" transform="translate(1529 895)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_2_Area" data-name="長方形 21" transform="translate(1529 895)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-2" data-name="長方形 22" transform="translate(1732 895)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_2_Area" data-name="長方形 22" transform="translate(1732 895)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -188,34 +188,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_2" data-name="2" transform="translate(153 980)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">2</tspan></text>
-    <g id="長方形_9-3" data-name="長方形 9" transform="translate(878 944)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_3_Area" data-name="長方形 9" transform="translate(878 944)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-3" data-name="長方形 17" transform="translate(189 944)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_3_Area" data-name="長方形 17" transform="translate(189 944)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-3" data-name="長方形 18" transform="translate(1095 944)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_3_Area" data-name="長方形 18" transform="translate(1095 944)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-3" data-name="長方形 19" transform="translate(1373 944)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_3_Area" data-name="長方形 19" transform="translate(1373 944)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_1_Text" data-name="%商品名[1]%" transform="translate(205 980)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[1]%</tspan></text>
     <text id="メーカー名_1_Text" data-name="%メーカー名[1]%" transform="translate(889 980)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[1]%</tspan></text>
     <text id="型番_1_Text" data-name="%型番[1]%" transform="translate(1105 980)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[1]%</tspan></text>
-    <g id="長方形_20-3" data-name="長方形 20" transform="translate(1451 944)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_3_Area" data-name="長方形 20" transform="translate(1451 944)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-3" data-name="長方形 21" transform="translate(1529 944)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_3_Area" data-name="長方形 21" transform="translate(1529 944)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-3" data-name="長方形 22" transform="translate(1732 944)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_3_Area" data-name="長方形 22" transform="translate(1732 944)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -228,34 +228,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_3" data-name="3" transform="translate(153 1029)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">3</tspan></text>
-    <g id="長方形_9-4" data-name="長方形 9" transform="translate(878 993)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_4_Area" data-name="長方形 9" transform="translate(878 993)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-4" data-name="長方形 17" transform="translate(189 993)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_4_Area" data-name="長方形 17" transform="translate(189 993)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-4" data-name="長方形 18" transform="translate(1095 993)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_4_Area" data-name="長方形 18" transform="translate(1095 993)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-4" data-name="長方形 19" transform="translate(1373 993)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_4_Area" data-name="長方形 19" transform="translate(1373 993)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_2_Text" data-name="%商品名[2]%" transform="translate(205 1029)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[2]%</tspan></text>
     <text id="メーカー名_2_Text" data-name="%メーカー名[2]%" transform="translate(889 1029)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[2]%</tspan></text>
     <text id="型番_2_Text" data-name="%型番[2]%" transform="translate(1105 1029)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[2]%</tspan></text>
-    <g id="長方形_20-4" data-name="長方形 20" transform="translate(1451 993)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_4_Area" data-name="長方形 20" transform="translate(1451 993)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-4" data-name="長方形 21" transform="translate(1529 993)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_4_Area" data-name="長方形 21" transform="translate(1529 993)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-4" data-name="長方形 22" transform="translate(1732 993)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_4_Area" data-name="長方形 22" transform="translate(1732 993)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -268,74 +268,74 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_4" data-name="4" transform="translate(153 1078)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">4</tspan></text>
-    <g id="長方形_9-5" data-name="長方形 9" transform="translate(878 1042)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_5_Area" data-name="長方形 9" transform="translate(878 1042)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-5" data-name="長方形 17" transform="translate(189 1042)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_5_Area" data-name="長方形 17" transform="translate(189 1042)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-5" data-name="長方形 18" transform="translate(1095 1042)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_5_Area" data-name="長方形 18" transform="translate(1095 1042)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-5" data-name="長方形 19" transform="translate(1373 1042)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_6_Area" data-name="長方形 19" transform="translate(1373 1042)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_3_Text" data-name="%商品名[3]%" transform="translate(205 1078)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[3]%</tspan></text>
     <text id="メーカー名_3_Text" data-name="%メーカー名[3]%" transform="translate(889 1078)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[3]%</tspan></text>
     <text id="型番_3_Text" data-name="%型番[3]%" transform="translate(1105 1078)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[3]%</tspan></text>
-    <g id="長方形_20-5" data-name="長方形 20" transform="translate(1451 1042)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_5_Area5" data-name="長方形 20" transform="translate(1451 1042)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-5" data-name="長方形 21" transform="translate(1529 1042)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_5_Area" data-name="長方形 21" transform="translate(1529 1042)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-5" data-name="長方形 22" transform="translate(1732 1042)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_5_Area" data-name="長方形 22" transform="translate(1732 1042)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
     <text id="単価_3_Text" data-name="%単価[3]%" transform="translate(1540 1077)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%単価[3]%</tspan></text>
     <text id="金額_3_Text" data-name="%金額[3]%" transform="translate(1743 1077)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%金額[3]%</tspan></text>
-    <text id="Text数量_3_" data-name="%数量[3]%" transform="translate(1382 1078)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%数量[3]%</tspan></text>
+    <text id="数量_3_Text" data-name="%数量[3]%" transform="translate(1382 1078)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%数量[3]%</tspan></text>
     <text id="単位_3_Text" data-name="%単位[3]%" transform="translate(1462 1078)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%単位[3]%</tspan></text>
     <g id="長方形_10-6" data-name="長方形 10" transform="translate(135 1091)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="55" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_5" data-name="5" transform="translate(153 1127)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">5</tspan></text>
-    <g id="長方形_9-6" data-name="長方形 9" transform="translate(878 1091)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_6_Area" data-name="長方形 9" transform="translate(878 1091)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-6" data-name="長方形 17" transform="translate(189 1091)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_6_Area" data-name="長方形 17" transform="translate(189 1091)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-6" data-name="長方形 18" transform="translate(1095 1091)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_6_Area" data-name="長方形 18" transform="translate(1095 1091)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-6" data-name="長方形 19" transform="translate(1373 1091)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_6_Area" data-name="長方形 19" transform="translate(1373 1091)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_4_Text" data-name="%商品名[4]%" transform="translate(205 1127)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[4]%</tspan></text>
     <text id="メーカー名_4_Text" data-name="%メーカー名[4]%" transform="translate(889 1127)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[4]%</tspan></text>
     <text id="型番_4_Text" data-name="%型番[4]%" transform="translate(1105 1127)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[4]%</tspan></text>
-    <g id="長方形_20-6" data-name="長方形 20" transform="translate(1451 1091)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_6_Area" data-name="長方形 20" transform="translate(1451 1091)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-6" data-name="長方形 21" transform="translate(1529 1091)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_6_Area" data-name="長方形 21" transform="translate(1529 1091)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-6" data-name="長方形 22" transform="translate(1732 1091)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_6_Area" data-name="長方形 22" transform="translate(1732 1091)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -348,34 +348,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_6" data-name="6" transform="translate(153 1176)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">6</tspan></text>
-    <g id="長方形_9-7" data-name="長方形 9" transform="translate(878 1140)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_7_Area" data-name="長方形 9" transform="translate(878 1140)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-7" data-name="長方形 17" transform="translate(189 1140)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_7_Area" data-name="長方形 17" transform="translate(189 1140)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-7" data-name="長方形 18" transform="translate(1095 1140)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_7_Area" data-name="長方形 18" transform="translate(1095 1140)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-7" data-name="長方形 19" transform="translate(1373 1140)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_7_Area" data-name="長方形 19" transform="translate(1373 1140)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_5_Text" data-name="%商品名[5]%" transform="translate(205 1176)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[5]%</tspan></text>
     <text id="メーカー名_5_Text" data-name="%メーカー名[5]%" transform="translate(889 1176)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[5]%</tspan></text>
     <text id="型番_5_Text" data-name="%型番[5]%" transform="translate(1105 1176)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[5]%</tspan></text>
-    <g id="長方形_20-7" data-name="長方形 20" transform="translate(1451 1140)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_7_Area" data-name="長方形 20" transform="translate(1451 1140)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-7" data-name="長方形 21" transform="translate(1529 1140)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_7_Area" data-name="長方形 21" transform="translate(1529 1140)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-7" data-name="長方形 22" transform="translate(1732 1140)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_7_Area" data-name="長方形 22" transform="translate(1732 1140)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -388,34 +388,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_7" data-name="7" transform="translate(153 1225)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">7</tspan></text>
-    <g id="長方形_9-8" data-name="長方形 9" transform="translate(878 1189)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_8_Area" data-name="長方形 9" transform="translate(878 1189)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-8" data-name="長方形 17" transform="translate(189 1189)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_8_Area" data-name="長方形 17" transform="translate(189 1189)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-8" data-name="長方形 18" transform="translate(1095 1189)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_8_Area" data-name="長方形 18" transform="translate(1095 1189)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-8" data-name="長方形 19" transform="translate(1373 1189)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_8_Area" data-name="長方形 19" transform="translate(1373 1189)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_6_Text" data-name="%商品名[6]%" transform="translate(205 1225)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[6]%</tspan></text>
     <text id="メーカー名_6_Text" data-name="%メーカー名[6]%" transform="translate(889 1225)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[6]%</tspan></text>
     <text id="型番_6_Text" data-name="%型番[6]%" transform="translate(1105 1225)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[6]%</tspan></text>
-    <g id="長方形_20-8" data-name="長方形 20" transform="translate(1451 1189)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_8_Area" data-name="長方形 20" transform="translate(1451 1189)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-8" data-name="長方形 21" transform="translate(1529 1189)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_8_Area" data-name="長方形 21" transform="translate(1529 1189)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-8" data-name="長方形 22" transform="translate(1732 1189)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_8_Area" data-name="長方形 22" transform="translate(1732 1189)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -428,34 +428,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_8" data-name="8" transform="translate(153 1274)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">8</tspan></text>
-    <g id="長方形_9-9" data-name="長方形 9" transform="translate(878 1238)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_9_Area" data-name="長方形 9" transform="translate(878 1238)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-9" data-name="長方形 17" transform="translate(189 1238)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_9_Area" data-name="長方形 17" transform="translate(189 1238)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-9" data-name="長方形 18" transform="translate(1095 1238)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_9_Area" data-name="長方形 18" transform="translate(1095 1238)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-9" data-name="長方形 19" transform="translate(1373 1238)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_9_Area" data-name="長方形 19" transform="translate(1373 1238)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_7_Text" data-name="%商品名[7]%" transform="translate(205 1274)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[7]%</tspan></text>
     <text id="メーカー名_7_Text" data-name="%メーカー名[7]%" transform="translate(889 1274)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[7]%</tspan></text>
     <text id="型番_7_Text" data-name="%型番[7]%" transform="translate(1105 1274)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[7]%</tspan></text>
-    <g id="長方形_20-9" data-name="長方形 20" transform="translate(1451 1238)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_9_Area" data-name="長方形 20" transform="translate(1451 1238)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-9" data-name="長方形 21" transform="translate(1529 1238)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_9_Area" data-name="長方形 21" transform="translate(1529 1238)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-9" data-name="長方形 22" transform="translate(1732 1238)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_9_Area" data-name="長方形 22" transform="translate(1732 1238)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -468,34 +468,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_9" data-name="9" transform="translate(153 1323)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">9</tspan></text>
-    <g id="長方形_9-10" data-name="長方形 9" transform="translate(878 1287)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_10_Area" data-name="長方形 9" transform="translate(878 1287)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-10" data-name="長方形 17" transform="translate(189 1287)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_10_Area" data-name="長方形 17" transform="translate(189 1287)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-10" data-name="長方形 18" transform="translate(1095 1287)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_10_Area" data-name="長方形 18" transform="translate(1095 1287)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-10" data-name="長方形 19" transform="translate(1373 1287)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_10_Area" data-name="長方形 19" transform="translate(1373 1287)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_8_Text" data-name="%商品名[8]%" transform="translate(205 1323)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[8]%</tspan></text>
     <text id="メーカー名_8_Text" data-name="%メーカー名[8]%" transform="translate(889 1323)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[8]%</tspan></text>
     <text id="型番_8_Text" data-name="%型番[8]%" transform="translate(1105 1323)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[8]%</tspan></text>
-    <g id="長方形_20-10" data-name="長方形 20" transform="translate(1451 1287)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_10_Area" data-name="長方形 20" transform="translate(1451 1287)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-10" data-name="長方形 21" transform="translate(1529 1287)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_10_Area" data-name="長方形 21" transform="translate(1529 1287)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-10" data-name="長方形 22" transform="translate(1732 1287)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_10_Area" data-name="長方形 22" transform="translate(1732 1287)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -508,34 +508,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_10" data-name="10" transform="translate(144 1372)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">10</tspan></text>
-    <g id="長方形_9-11" data-name="長方形 9" transform="translate(878 1336)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_11_Area" data-name="長方形 9" transform="translate(878 1336)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-11" data-name="長方形 17" transform="translate(189 1336)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_11_Area" data-name="長方形 17" transform="translate(189 1336)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-11" data-name="長方形 18" transform="translate(1095 1336)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_11_Area" data-name="長方形 18" transform="translate(1095 1336)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-11" data-name="長方形 19" transform="translate(1373 1336)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_11_Area" data-name="長方形 19" transform="translate(1373 1336)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_9_Text" data-name="%商品名[9]%" transform="translate(205 1372)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[9]%</tspan></text>
     <text id="メーカー名_9_Text" data-name="%メーカー名[9]%" transform="translate(889 1372)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[9]%</tspan></text>
     <text id="型番_9_Text" data-name="%型番[9]%" transform="translate(1105 1372)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[9]%</tspan></text>
-    <g id="長方形_20-11" data-name="長方形 20" transform="translate(1451 1336)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_11_Area" data-name="長方形 20" transform="translate(1451 1336)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-11" data-name="長方形 21" transform="translate(1529 1336)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_11_Area" data-name="長方形 21" transform="translate(1529 1336)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-11" data-name="長方形 22" transform="translate(1732 1336)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_11_Area" data-name="長方形 22" transform="translate(1732 1336)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -548,34 +548,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_11" data-name="11" transform="translate(144 1421)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">11</tspan></text>
-    <g id="長方形_9-12" data-name="長方形 9" transform="translate(878 1385)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_11_Area" data-name="長方形 9" transform="translate(878 1385)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-12" data-name="長方形 17" transform="translate(189 1385)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_11_Area" data-name="長方形 17" transform="translate(189 1385)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-12" data-name="長方形 18" transform="translate(1095 1385)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_11_Area" data-name="長方形 18" transform="translate(1095 1385)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-12" data-name="長方形 19" transform="translate(1373 1385)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_11_Area" data-name="長方形 19" transform="translate(1373 1385)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_10_Text" data-name="%商品名[10]%" transform="translate(205 1421)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[10]%</tspan></text>
     <text id="メーカー名_10_Text" data-name="%メーカー名[10]%" transform="translate(889 1421)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[10]%</tspan></text>
     <text id="型番_10_Text" data-name="%型番[10]%" transform="translate(1105 1421)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[10]%</tspan></text>
-    <g id="長方形_20-12" data-name="長方形 20" transform="translate(1451 1385)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_11_Area" data-name="長方形 20" transform="translate(1451 1385)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-12" data-name="長方形 21" transform="translate(1529 1385)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_11_Area" data-name="長方形 21" transform="translate(1529 1385)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-12" data-name="長方形 22" transform="translate(1732 1385)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_11_Area" data-name="長方形 22" transform="translate(1732 1385)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -588,34 +588,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_12" data-name="12" transform="translate(144 1470)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">12</tspan></text>
-    <g id="長方形_9-13" data-name="長方形 9" transform="translate(878 1434)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_12_Area" data-name="長方形 9" transform="translate(878 1434)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-13" data-name="長方形 17" transform="translate(189 1434)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_12_Area" data-name="長方形 17" transform="translate(189 1434)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-13" data-name="長方形 18" transform="translate(1095 1434)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_12_Area" data-name="長方形 18" transform="translate(1095 1434)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-13" data-name="長方形 19" transform="translate(1373 1434)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_12_Area" data-name="長方形 19" transform="translate(1373 1434)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_11_Text" data-name="%商品名[11]%" transform="translate(205 1470)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[11]%</tspan></text>
     <text id="メーカー名_11_Text" data-name="%メーカー名[11]%" transform="translate(889 1470)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[11]%</tspan></text>
     <text id="型番_11_Text" data-name="%型番[11]%" transform="translate(1105 1470)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[11]%</tspan></text>
-    <g id="長方形_20-13" data-name="長方形 20" transform="translate(1451 1434)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_12_Area" data-name="長方形 20" transform="translate(1451 1434)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-13" data-name="長方形 21" transform="translate(1529 1434)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_12_Area" data-name="長方形 21" transform="translate(1529 1434)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-13" data-name="長方形 22" transform="translate(1732 1434)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_12_Area" data-name="長方形 22" transform="translate(1732 1434)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -628,34 +628,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_13" data-name="13" transform="translate(144 1519)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">13</tspan></text>
-    <g id="長方形_9-14" data-name="長方形 9" transform="translate(878 1483)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_13_Area" data-name="長方形 9" transform="translate(878 1483)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-14" data-name="長方形 17" transform="translate(189 1483)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_13_Area" data-name="長方形 17" transform="translate(189 1483)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-14" data-name="長方形 18" transform="translate(1095 1483)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_13_Area" data-name="長方形 18" transform="translate(1095 1483)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-14" data-name="長方形 19" transform="translate(1373 1483)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_13_Area" data-name="長方形 19" transform="translate(1373 1483)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_12_Text" data-name="%商品名[12]%" transform="translate(205 1519)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[12]%</tspan></text>
     <text id="メーカー名_12_Text" data-name="%メーカー名[12]%" transform="translate(889 1519)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[12]%</tspan></text>
     <text id="型番_12_Text" data-name="%型番[12]%" transform="translate(1105 1519)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[12]%</tspan></text>
-    <g id="長方形_20-14" data-name="長方形 20" transform="translate(1451 1483)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_13_Area" data-name="長方形 20" transform="translate(1451 1483)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-14" data-name="長方形 21" transform="translate(1529 1483)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_13_Area" data-name="長方形 21" transform="translate(1529 1483)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-14" data-name="長方形 22" transform="translate(1732 1483)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_13_Area" data-name="長方形 22" transform="translate(1732 1483)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -668,34 +668,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_14" data-name="14" transform="translate(144 1568)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">14</tspan></text>
-    <g id="長方形_9-15" data-name="長方形 9" transform="translate(878 1532)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_0_Area" data-name="長方形 9" transform="translate(878 1532)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-15" data-name="長方形 17" transform="translate(189 1532)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_0_Area" data-name="長方形 17" transform="translate(189 1532)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-15" data-name="長方形 18" transform="translate(1095 1532)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_0_Area" data-name="長方形 18" transform="translate(1095 1532)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-15" data-name="長方形 19" transform="translate(1373 1532)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_0_Area" data-name="長方形 19" transform="translate(1373 1532)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_13_Text" data-name="%商品名[13]%" transform="translate(205 1568)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[13]%</tspan></text>
     <text id="メーカー名_13_Text" data-name="%メーカー名[13]%" transform="translate(889 1568)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[13]%</tspan></text>
     <text id="型番_13_Text" data-name="%型番[13]%" transform="translate(1105 1568)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[13]%</tspan></text>
-    <g id="長方形_20-15" data-name="長方形 20" transform="translate(1451 1532)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_0_Area" data-name="長方形 20" transform="translate(1451 1532)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-15" data-name="長方形 21" transform="translate(1529 1532)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_0_Area" data-name="長方形 21" transform="translate(1529 1532)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-15" data-name="長方形 22" transform="translate(1732 1532)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_0_Area" data-name="長方形 22" transform="translate(1732 1532)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -708,34 +708,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_15" data-name="15" transform="translate(144 1617)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">15</tspan></text>
-    <g id="長方形_9-16" data-name="長方形 9" transform="translate(878 1581)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_14_Area" data-name="長方形 9" transform="translate(878 1581)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-16" data-name="長方形 17" transform="translate(189 1581)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_14_Area" data-name="長方形 17" transform="translate(189 1581)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-16" data-name="長方形 18" transform="translate(1095 1581)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_14_Area" data-name="長方形 18" transform="translate(1095 1581)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-16" data-name="長方形 19" transform="translate(1373 1581)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_14_Area" data-name="長方形 19" transform="translate(1373 1581)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_14_Text" data-name="%商品名[14]%" transform="translate(205 1617)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[14]%</tspan></text>
     <text id="メーカー名_14_Text" data-name="%メーカー名[14]%" transform="translate(889 1617)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[14]%</tspan></text>
     <text id="型番_14_Text" data-name="%型番[14]%" transform="translate(1105 1617)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[14]%</tspan></text>
-    <g id="長方形_20-16" data-name="長方形 20" transform="translate(1451 1581)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_14_Area" data-name="長方形 20" transform="translate(1451 1581)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-16" data-name="長方形 21" transform="translate(1529 1581)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_14_Area" data-name="長方形 21" transform="translate(1529 1581)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-16" data-name="長方形 22" transform="translate(1732 1581)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_14_Area" data-name="長方形 22" transform="translate(1732 1581)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -748,34 +748,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_16" data-name="16" transform="translate(144 1666)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">16</tspan></text>
-    <g id="長方形_9-17" data-name="長方形 9" transform="translate(878 1630)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_15_Area" data-name="長方形 9" transform="translate(878 1630)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-17" data-name="長方形 17" transform="translate(189 1630)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_15_Area" data-name="長方形 17" transform="translate(189 1630)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-17" data-name="長方形 18" transform="translate(1095 1630)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_15_Area" data-name="長方形 18" transform="translate(1095 1630)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-17" data-name="長方形 19" transform="translate(1373 1630)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_15_Area" data-name="長方形 19" transform="translate(1373 1630)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_15_Text" data-name="%商品名[15]%" transform="translate(205 1666)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[15]%</tspan></text>
     <text id="メーカー名_15_Text" data-name="%メーカー名[15]%" transform="translate(889 1666)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[15]%</tspan></text>
     <text id="型番_15_Text" data-name="%型番[15]%" transform="translate(1105 1666)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[15]%</tspan></text>
-    <g id="長方形_20-17" data-name="長方形 20" transform="translate(1451 1630)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_15_Area" data-name="長方形 20" transform="translate(1451 1630)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-17" data-name="長方形 21" transform="translate(1529 1630)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_15_Area" data-name="長方形 21" transform="translate(1529 1630)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-17" data-name="長方形 22" transform="translate(1732 1630)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_15_Area" data-name="長方形 22" transform="translate(1732 1630)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -788,34 +788,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_17" data-name="17" transform="translate(144 1715)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">17</tspan></text>
-    <g id="長方形_9-18" data-name="長方形 9" transform="translate(878 1679)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_16_Area" data-name="長方形 9" transform="translate(878 1679)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-18" data-name="長方形 17" transform="translate(189 1679)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_16_Area" data-name="長方形 17" transform="translate(189 1679)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-18" data-name="長方形 18" transform="translate(1095 1679)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_16_Area" data-name="長方形 18" transform="translate(1095 1679)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-18" data-name="長方形 19" transform="translate(1373 1679)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_16_Area" data-name="長方形 19" transform="translate(1373 1679)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_16_Text" data-name="%商品名[16]%" transform="translate(205 1715)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[16]%</tspan></text>
     <text id="メーカー名_16_Text" data-name="%メーカー名[16]%" transform="translate(889 1715)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[16]%</tspan></text>
     <text id="型番_16_Text" data-name="%型番[16]%" transform="translate(1105 1715)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[16]%</tspan></text>
-    <g id="長方形_20-18" data-name="長方形 20" transform="translate(1451 1679)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_16_Area" data-name="長方形 20" transform="translate(1451 1679)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-18" data-name="長方形 21" transform="translate(1529 1679)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_16_Area" data-name="長方形 21" transform="translate(1529 1679)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-18" data-name="長方形 22" transform="translate(1732 1679)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_16_Area" data-name="長方形 22" transform="translate(1732 1679)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -828,34 +828,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_18" data-name="18" transform="translate(144 1764)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">18</tspan></text>
-    <g id="長方形_9-19" data-name="長方形 9" transform="translate(878 1728)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_17_Area" data-name="長方形 9" transform="translate(878 1728)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-19" data-name="長方形 17" transform="translate(189 1728)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_17_Area" data-name="長方形 17" transform="translate(189 1728)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-19" data-name="長方形 18" transform="translate(1095 1728)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_17_Area" data-name="長方形 18" transform="translate(1095 1728)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-19" data-name="長方形 19" transform="translate(1373 1728)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_17_Area" data-name="長方形 19" transform="translate(1373 1728)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_17_Text" data-name="%商品名[17]%" transform="translate(205 1764)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[17]%</tspan></text>
     <text id="メーカー名_17_Text" data-name="%メーカー名[17]%" transform="translate(889 1764)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[17]%</tspan></text>
     <text id="型番_17_Text" data-name="%型番[17]%" transform="translate(1105 1764)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[17]%</tspan></text>
-    <g id="長方形_20-19" data-name="長方形 20" transform="translate(1451 1728)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_17_Area" data-name="長方形 20" transform="translate(1451 1728)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-19" data-name="長方形 21" transform="translate(1529 1728)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_17_Area" data-name="長方形 21" transform="translate(1529 1728)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-19" data-name="長方形 22" transform="translate(1732 1728)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_17_Area" data-name="長方形 22" transform="translate(1732 1728)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -868,34 +868,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_19" data-name="19" transform="translate(144 1813)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">19</tspan></text>
-    <g id="長方形_9-20" data-name="長方形 9" transform="translate(878 1777)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_18_Area" data-name="長方形 9" transform="translate(878 1777)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-20" data-name="長方形 17" transform="translate(189 1777)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_18_Area" data-name="長方形 17" transform="translate(189 1777)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-20" data-name="長方形 18" transform="translate(1095 1777)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_18_Area" data-name="長方形 18" transform="translate(1095 1777)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-20" data-name="長方形 19" transform="translate(1373 1777)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_18_Area" data-name="長方形 19" transform="translate(1373 1777)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_18_Text" data-name="%商品名[18]%" transform="translate(205 1813)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[18]%</tspan></text>
     <text id="メーカー名_18_Text" data-name="%メーカー名[18]%" transform="translate(889 1813)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[18]%</tspan></text>
     <text id="型番_18_Text" data-name="%型番[18]%" transform="translate(1105 1813)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[18]%</tspan></text>
-    <g id="長方形_20-20" data-name="長方形 20" transform="translate(1451 1777)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_18_Area" data-name="長方形 20" transform="translate(1451 1777)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-20" data-name="長方形 21" transform="translate(1529 1777)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_18_Area" data-name="長方形 21" transform="translate(1529 1777)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-20" data-name="長方形 22" transform="translate(1732 1777)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_18_Area" data-name="長方形 22" transform="translate(1732 1777)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -908,34 +908,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_20" data-name="20" transform="translate(144 1862)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">20</tspan></text>
-    <g id="長方形_9-21" data-name="長方形 9" transform="translate(878 1826)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_19_Area" data-name="長方形 9" transform="translate(878 1826)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-21" data-name="長方形 17" transform="translate(189 1826)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_19_Area" data-name="長方形 17" transform="translate(189 1826)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-21" data-name="長方形 18" transform="translate(1095 1826)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_19_Area" data-name="長方形 18" transform="translate(1095 1826)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-21" data-name="長方形 19" transform="translate(1373 1826)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_19_Area" data-name="長方形 19" transform="translate(1373 1826)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_19_Text" data-name="%商品名[19]%" transform="translate(205 1862)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[19]%</tspan></text>
     <text id="メーカー名_19_Text" data-name="%メーカー名[19]%" transform="translate(889 1862)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[19]%</tspan></text>
     <text id="型番_19_Text" data-name="%型番[19]%" transform="translate(1105 1862)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[19]%</tspan></text>
-    <g id="長方形_20-21" data-name="長方形 20" transform="translate(1451 1826)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_19_Area" data-name="長方形 20" transform="translate(1451 1826)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-21" data-name="長方形 21" transform="translate(1529 1826)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_19_Area" data-name="長方形 21" transform="translate(1529 1826)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-21" data-name="長方形 22" transform="translate(1732 1826)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_19_Area" data-name="長方形 22" transform="translate(1732 1826)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -948,34 +948,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_21" data-name="21" transform="translate(144 1911)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">21</tspan></text>
-    <g id="長方形_9-22" data-name="長方形 9" transform="translate(878 1875)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_20_Area" data-name="長方形 9" transform="translate(878 1875)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-22" data-name="長方形 17" transform="translate(189 1875)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_20_Area" data-name="長方形 17" transform="translate(189 1875)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-22" data-name="長方形 18" transform="translate(1095 1875)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_20_Area" data-name="長方形 18" transform="translate(1095 1875)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-22" data-name="長方形 19" transform="translate(1373 1875)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_20_Area" data-name="長方形 19" transform="translate(1373 1875)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_20_Text" data-name="%商品名[20]%" transform="translate(205 1911)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[20]%</tspan></text>
     <text id="メーカー名_20_Text" data-name="%メーカー名[20]%" transform="translate(889 1911)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[20]%</tspan></text>
     <text id="型番_20_Text" data-name="%型番[20]%" transform="translate(1105 1911)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[20]%</tspan></text>
-    <g id="長方形_20-22" data-name="長方形 20" transform="translate(1451 1875)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_20_Area" data-name="長方形 20" transform="translate(1451 1875)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-22" data-name="長方形 21" transform="translate(1529 1875)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_20_Area" data-name="長方形 21" transform="translate(1529 1875)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-22" data-name="長方形 22" transform="translate(1732 1875)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_20_Area" data-name="長方形 22" transform="translate(1732 1875)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -988,34 +988,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_22" data-name="22" transform="translate(144 1960)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">22</tspan></text>
-    <g id="長方形_9-23" data-name="長方形 9" transform="translate(878 1924)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_21_Area" data-name="長方形 9" transform="translate(878 1924)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-23" data-name="長方形 17" transform="translate(189 1924)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_21_Area" data-name="長方形 17" transform="translate(189 1924)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-23" data-name="長方形 18" transform="translate(1095 1924)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_21_Area" data-name="長方形 18" transform="translate(1095 1924)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-23" data-name="長方形 19" transform="translate(1373 1924)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_21_Area" data-name="長方形 19" transform="translate(1373 1924)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_21_Text" data-name="%商品名[21]%" transform="translate(205 1960)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[21]%</tspan></text>
     <text id="メーカー名_21_Text" data-name="%メーカー名[21]%" transform="translate(889 1960)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[21]%</tspan></text>
     <text id="型番_21_Text" data-name="%型番[21]%" transform="translate(1105 1960)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[21]%</tspan></text>
-    <g id="長方形_20-23" data-name="長方形 20" transform="translate(1451 1924)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_21_Area" data-name="長方形 20" transform="translate(1451 1924)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-23" data-name="長方形 21" transform="translate(1529 1924)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_21_Area" data-name="長方形 21" transform="translate(1529 1924)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-23" data-name="長方形 22" transform="translate(1732 1924)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_21_Area" data-name="長方形 22" transform="translate(1732 1924)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -1028,34 +1028,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_23" data-name="23" transform="translate(144 2009)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">23</tspan></text>
-    <g id="長方形_9-24" data-name="長方形 9" transform="translate(878 1973)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_22_Area" data-name="長方形 9" transform="translate(878 1973)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-24" data-name="長方形 17" transform="translate(189 1973)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_22_Area" data-name="長方形 17" transform="translate(189 1973)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-24" data-name="長方形 18" transform="translate(1095 1973)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_22_Area" data-name="長方形 18" transform="translate(1095 1973)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-24" data-name="長方形 19" transform="translate(1373 1973)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_22_Area" data-name="長方形 19" transform="translate(1373 1973)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_22_Text" data-name="%商品名[22]%" transform="translate(205 2009)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[22]%</tspan></text>
     <text id="メーカー名_22_Text" data-name="%メーカー名[22]%" transform="translate(889 2009)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[22]%</tspan></text>
     <text id="型番_22_Text" data-name="%型番[22]%" transform="translate(1105 2009)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[22]%</tspan></text>
-    <g id="長方形_20-24" data-name="長方形 20" transform="translate(1451 1973)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_22_Area" data-name="長方形 20" transform="translate(1451 1973)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-24" data-name="長方形 21" transform="translate(1529 1973)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_22_Area" data-name="長方形 21" transform="translate(1529 1973)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-24" data-name="長方形 22" transform="translate(1732 1973)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_22_Area" data-name="長方形 22" transform="translate(1732 1973)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -1068,34 +1068,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_24" data-name="24" transform="translate(144 2058)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">24</tspan></text>
-    <g id="長方形_9-25" data-name="長方形 9" transform="translate(878 2022)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_23_Area" data-name="長方形 9" transform="translate(878 2022)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-25" data-name="長方形 17" transform="translate(189 2022)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_23_Area" data-name="長方形 17" transform="translate(189 2022)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-25" data-name="長方形 18" transform="translate(1095 2022)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_23_Area" data-name="長方形 18" transform="translate(1095 2022)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-25" data-name="長方形 19" transform="translate(1373 2022)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_23_Area" data-name="長方形 19" transform="translate(1373 2022)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_23_Text" data-name="%商品名[23]%" transform="translate(205 2058)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[23]%</tspan></text>
     <text id="メーカー名_23_Text" data-name="%メーカー名[23]%" transform="translate(889 2058)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[23]%</tspan></text>
     <text id="型番_23_Text" data-name="%型番[23]%" transform="translate(1105 2058)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[23]%</tspan></text>
-    <g id="長方形_20-25" data-name="長方形 20" transform="translate(1451 2022)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_23_Area" data-name="長方形 20" transform="translate(1451 2022)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-25" data-name="長方形 21" transform="translate(1529 2022)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_23_Area" data-name="長方形 21" transform="translate(1529 2022)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-25" data-name="長方形 22" transform="translate(1732 2022)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_23_Area" data-name="長方形 22" transform="translate(1732 2022)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -1108,34 +1108,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_25" data-name="25" transform="translate(144 2107)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">25</tspan></text>
-    <g id="長方形_9-26" data-name="長方形 9" transform="translate(878 2071)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_24_Area" data-name="長方形 9" transform="translate(878 2071)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-26" data-name="長方形 17" transform="translate(189 2071)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_24_Area" data-name="長方形 17" transform="translate(189 2071)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-26" data-name="長方形 18" transform="translate(1095 2071)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_24_Area" data-name="長方形 18" transform="translate(1095 2071)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-26" data-name="長方形 19" transform="translate(1373 2071)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_24_Area" data-name="長方形 19" transform="translate(1373 2071)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_24_Text" data-name="%商品名[24]%" transform="translate(205 2107)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[24]%</tspan></text>
     <text id="メーカー名_24_Text" data-name="%メーカー名[24]%" transform="translate(889 2107)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[24]%</tspan></text>
     <text id="型番_24_Text" data-name="%型番[24]%" transform="translate(1105 2107)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[24]%</tspan></text>
-    <g id="長方形_20-26" data-name="長方形 20" transform="translate(1451 2071)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_24_Area" data-name="長方形 20" transform="translate(1451 2071)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-26" data-name="長方形 21" transform="translate(1529 2071)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_24_Area" data-name="長方形 21" transform="translate(1529 2071)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-26" data-name="長方形 22" transform="translate(1732 2071)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_24_Area" data-name="長方形 22" transform="translate(1732 2071)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -1148,34 +1148,34 @@
       <rect x="0.5" y="0.5" width="54" height="49" fill="none"/>
     </g>
     <text id="_26" data-name="26" transform="translate(144 2156)" font-size="30" font-family="IPAexMincho"><tspan x="0" y="0">26</tspan></text>
-    <g id="長方形_9-27" data-name="長方形 9" transform="translate(878 2120)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="メーカー名_25_Area" data-name="長方形 9" transform="translate(878 2120)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="218" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="217" height="49" fill="none"/>
     </g>
-    <g id="長方形_17-27" data-name="長方形 17" transform="translate(189 2120)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="商品名_25_Area" data-name="長方形 17" transform="translate(189 2120)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="690" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="689" height="49" fill="none"/>
     </g>
-    <g id="長方形_18-27" data-name="長方形 18" transform="translate(1095 2120)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="型番_25_Area" data-name="長方形 18" transform="translate(1095 2120)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="285" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="284" height="49" fill="none"/>
     </g>
-    <g id="長方形_19-27" data-name="長方形 19" transform="translate(1373 2120)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="数量_25_Area" data-name="長方形 19" transform="translate(1373 2120)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
     <text id="商品名_25_Text" data-name="%商品名[25]%" transform="translate(205 2156)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%商品名[25]%</tspan></text>
     <text id="メーカー名_25_Text" data-name="%メーカー名[25]%" transform="translate(889 2156)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%メーカー名[25]%</tspan></text>
     <text id="型番_25_Text" data-name="%型番[25]%" transform="translate(1105 2156)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%型番[25]%</tspan></text>
-    <g id="長方形_20-27" data-name="長方形 20" transform="translate(1451 2120)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単位_25_Area" data-name="長方形 20" transform="translate(1451 2120)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="79" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="78" height="49" fill="none"/>
     </g>
-    <g id="長方形_21-27" data-name="長方形 21" transform="translate(1529 2120)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="単価_25_Area" data-name="長方形 21" transform="translate(1529 2120)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="204" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="203" height="49" fill="none"/>
     </g>
-    <g id="長方形_22-27" data-name="長方形 22" transform="translate(1732 2120)" fill="#fff" stroke="#000" stroke-width="1">
+    <g id="金額_25_Area" data-name="長方形 22" transform="translate(1732 2120)" fill="#fff" stroke="#000" stroke-width="1">
       <rect width="234" height="50" stroke="none"/>
       <rect x="0.5" y="0.5" width="233" height="49" fill="none"/>
     </g>
@@ -1190,11 +1190,11 @@
     <text id="数量_25_Text" data-name="%数量[25]%" transform="translate(1382 2156)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%数量[25]%</tspan></text>
     <text id="単位_25_Text" data-name="%単位[25]%" transform="translate(1462 2156)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%単位[25]%</tspan></text>
     <text id="値引き_Text" data-name="%値引き%" transform="translate(1740 2283)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%値引き%</tspan></text>
-    <text id="備考_Text" data-name="%備考%" transform="translate(135 2300)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%備考%</tspan></text>
+    <text id="備考_TextArea" data-name="%備考%" transform="translate(135 2300)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%備考%</tspan></text>
     <text id="合計_Text" data-name="%合計%" transform="translate(1743 2351)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%合計%</tspan></text>
     <text id="消費税_Text" data-name="%消費税%" transform="translate(1743 2419)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%消費税%</tspan></text>
     <text id="税込合計_Text" data-name="%税込合計%" transform="translate(1743 2487)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%税込合計%</tspan></text>
-    <text id="コメント_Text" data-name="%コメント%" transform="translate(138 2583)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%コメント%</tspan></text>
+    <text id="コメント_TextArea" data-name="%コメント%" transform="translate(138 2583)" font-size="30" font-family="IPAexGothic"><tspan x="0" y="0">%コメント%</tspan></text>
     <text id="作成日" transform="translate(1494.75 317.164)" font-size="23" font-family="IPAexMincho"><tspan x="0" y="0">作成日</tspan></text>
     <rect id="長方形_144" data-name="長方形 144" width="513" height="136" transform="translate(1452 500)" fill="#fff"/>
     <text id="支店住所_Text" data-name="%支店住所%" transform="translate(1452 522)" font-size="25" font-family="IPAexGothic"><tspan x="0" y="0">%支店住所%</tspan></text>

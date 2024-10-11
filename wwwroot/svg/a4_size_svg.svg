@@ -1,0 +1,12 @@
+<svg width="793.7" height="1122.52" viewBox="0 0 793.7 1122.52" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white" />
+  
+  <!-- 青い円 -->
+  <circle cx="396.85" cy="561.26" r="100" fill="blue" />
+  
+  <!-- 赤い四角形 -->
+  <rect x="246.85" y="411.26" width="300" height="150" fill="red" />
+
+  <!-- 黒いテキスト -->
+  <text x="50%" y="95%" font-size="48" text-anchor="middle" fill="black">A4サイズのSVG</text>
+</svg>

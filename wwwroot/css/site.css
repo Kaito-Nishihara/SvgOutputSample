@@ -23,35 +23,39 @@ body {
 
 @page {
     size: A4 portrait;
-    margin: 0; /* No header/footer margins */
+    margin: 0mm; /* No header/footer margins */
 }
-
-* {
-    margin: 0;
-    padding: 0;
-    user-select: none;
-}
-
+        * {
+            margin: 0;
+            padding: 0;
+            user-select: none;
+        }
 body {
     width: 210mm;
+    height: 297mm; /* 高さをA4サイズに正確に */
+    margin: 0;
+    padding: 0;
     color-adjust: exact;
 }
-
 svg {
     width: 210mm;
-    height: 295.5mm; /* Adjust to prevent overflow */
+    height: 290mm; /* Adjust to prevent overflow */
     page-break-after: always;
 }
-/* For preview */
-@media screen {
-    body {
-        background: #ccc;
-        margin: 0 auto;
-    }
-
-    svg {
-        background: #fff;
-        box-shadow: 0 .5mm 2mm rgba(0,0,0,.3);
-        margin-top: 5mm;
+        /* For preview */
+        @media screen {
+            body {
+                background: #ccc;
+                margin: 0 auto;
+            }
+            svg {
+                background: #fff;
+                box-shadow: 0 .5mm 2mm rgba(0,0,0,.3);
+                margin-top: 5mm;
+            }
+        }
+@media print {
+    #downloadPdfBtn {
+        display: none;
     }
 }

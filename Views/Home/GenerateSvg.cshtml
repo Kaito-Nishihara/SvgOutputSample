@@ -7,9 +7,7 @@
 
 <!-- PDFダウンロードボタン -->
 <div class="text-center mt-4">
-    <form method="get" action="@Url.Action("DownloadPdf", "YourController")">
-        <button type="submit" class="btn btn-primary btn-lg">PDFをダウンロード</button>
-    </form>
+    <button id="downloadPdfBtn" class="btn btn-primary btn-lg">PDFをダウンロード</button>    
 </div>
 
 <style>
@@ -21,6 +19,7 @@
 
     // 複数の処理をまとめて実行する
     window.onload = function () {
+        adjustTextArea();
         updateTextPositions();
         resizeTextToFit();
         
@@ -28,4 +27,38 @@
 
     // ウィンドウサイズ変更時にもフォントサイズを再調整
     window.addEventListener('resize', resizeTextToFit);
+
+    // SVG を文字列として取得
+    function getSvgAsString() {
+        const svgElement = document.querySelector('svg'); // SVG要素を取得
+        const serializer = new XMLSerializer();
+        const svgString = serializer.serializeToString(svgElement);
+        return svgString;
+    }
+
+    // PDFダウンロードボタンがクリックされたら
+    document.getElementById("downloadPdfBtn").addEventListener("click", function () {
+        const svgData = getSvgAsString(); // SVGデータを取得
+
+        // サーバーにSVGデータをPOSTしてPDFを生成
+        fetch('@Url.Action("DownloadPdf", "Home")', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',              
+            },
+            body: JSON.stringify({ svgContent: svgData }) // SVGデータをJSON形式で送信
+        })
+            .then(response => response.blob()) // レスポンスをblob形式で受け取る
+            .then(blob => {
+                // Blobを使ってPDFをダウンロード
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = '見積書（金額あり）.pdf';
+                document.body.appendChild(a);
+                a.click();
+                a.remove();
+            })
+            .catch(error => console.error('Error:', error));
+    });
 </script>

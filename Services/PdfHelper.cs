@@ -91,7 +91,7 @@ namespace SvgOutputSample.Services
 
             if (property.Name.Contains("TextArea"))
             {
-                AdjustTextArea(displayName, replacementValue, svgDoc, ns);
+                UpdateTextAreaElement(svgDoc, displayName, replacementValue, ns);                
             }
             else
             {
@@ -205,6 +205,16 @@ namespace SvgOutputSample.Services
         {
             var textElement = svgDoc.Descendants(ns + "text")
                                     .FirstOrDefault(e => (string)e.Attribute("id")! == $"{placeholder}_Text");
+            if (textElement != null)
+            {
+                textElement.Value = replacementValue;
+            }
+        }
+
+        private void UpdateTextAreaElement(XDocument svgDoc, string placeholder, string replacementValue, XNamespace ns)
+        {
+            var textElement = svgDoc.Descendants(ns + "text")
+                                    .FirstOrDefault(e => (string)e.Attribute("id")! == $"{placeholder}_TextArea");
             if (textElement != null)
             {
                 textElement.Value = replacementValue;
