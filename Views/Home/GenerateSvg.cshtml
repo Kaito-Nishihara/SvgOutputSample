@@ -1,64 +1,48 @@
-﻿@model string
+﻿
+@model SvgOutputSample.Models.SvgPreviewModel
 @{
     Layout = "~/Views/Shared/_SvgPreviewLayout.cshtml";
 }
-
-    @Html.Raw(Model)
-
+@Html.Raw(Model.SvgContent)
+@Html.HiddenFor(m => m.PageSize)
+@Html.HiddenFor(m => m.Orientation)
+@Html.HiddenFor(m => m.FileName)
 <!-- PDFダウンロードボタン -->
 <div class="text-center mt-4">
-    <button id="downloadPdfBtn" class="btn btn-primary btn-lg">PDFをダウンロード</button>    
+    <button id="downloadPdfBtn" class="btn btn-primary btn-lg">PDFをダウンロード</button>
 </div>
 
-<style>
-
-
-</style>
-<script src="/js/site.js"></script>
 <script>
-
     // 複数の処理をまとめて実行する
     window.onload = function () {
         adjustTextArea();
         updateTextPositions();
         resizeTextToFit();
-        
+        //ページサイズを更新
+        var orientation = "@Model.Orientation";
+        var pageSize = "@Model.PageSize";
+        applyPageStyles(pageSize, orientation);
     };
-
-    // ウィンドウサイズ変更時にもフォントサイズを再調整
-    window.addEventListener('resize', resizeTextToFit);
-
-    // SVG を文字列として取得
-    function getSvgAsString() {
-        const svgElement = document.querySelector('svg'); // SVG要素を取得
-        const serializer = new XMLSerializer();
-        const svgString = serializer.serializeToString(svgElement);
-        return svgString;
-    }
 
     // PDFダウンロードボタンがクリックされたら
     document.getElementById("downloadPdfBtn").addEventListener("click", function () {
-        const svgData = getSvgAsString(); // SVGデータを取得
-
-        // サーバーにSVGデータをPOSTしてPDFを生成
-        fetch('@Url.Action("DownloadPdf", "Home")', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',              
-            },
-            body: JSON.stringify({ svgContent: svgData }) // SVGデータをJSON形式で送信
-        })
-            .then(response => response.blob()) // レスポンスをblob形式で受け取る
-            .then(blob => {
-                // Blobを使ってPDFをダウンロード
-                const url = window.URL.createObjectURL(blob);
-                const a = document.createElement('a');
-                a.href = url;
-                a.download = '見積書（金額あり）.pdf';
-                document.body.appendChild(a);
-                a.click();
-                a.remove();
-            })
-            .catch(error => console.error('Error:', error));
+        window.print();
     });
+    const pageDimensions = {
+        "@(PDFサイズ.A4)": { width: '210mm', height: '297mm' },
+    };
+    function applyPageStyles(pageSize, orientation) {
+        let pageWidth, pageHeight;
+        const dimensions = pageDimensions[pageSize] || pageDimensions['A4']; // デフォルトはA4
+
+        if (orientation === "@(PDF向き.横)") {
+            pageWidth = dimensions.height; // 横向きは幅と高さを逆にする
+            pageHeight = dimensions.width;
+        } else {
+            pageWidth = dimensions.width; // 縦向き
+            pageHeight = dimensions.height;
+        }
+        // body と svg のスタイルを動的に設定
+
+    }
 </script>

@@ -17,18 +17,19 @@ using iText.IO.Font;
 using iText.Kernel.Font;
 using iText.Layout.Element;
 using iText.Svg.Converter;
+using static SvgOutputSample.Services.SvgTextAreaPoint;
 
 namespace SvgOutputSample.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly SvgProcessor _processor;
+        private readonly ISvgProcessingService _processor;
         private readonly IConverter _converter;
         readonly IWebHostEnvironment _hostingEnvironment;
         public HomeController(ILogger<HomeController> logger, IWebHostEnvironment hostingEnvironment, IConverter converter)
         {
-            _processor = new SvgProcessor(hostingEnvironment);
+            _processor = new SvgProcessingService(hostingEnvironment);
             _converter = converter;
             _hostingEnvironment = hostingEnvironment;
         }
@@ -51,17 +52,17 @@ namespace SvgOutputSample.Controllers
 
         public IActionResult GenerateSvg()
         {
-            string inputFilePath = "見積書（金額あり）.svg";
+            string inputFilePath = "test.svg";
 
             // 置換する値を持つオブジェクトを作成
-            var replacementValues = new Estimate();
+            var replacementValues = new TestViewModel();
 
             // SvgProcessorを使って置換処理を実行
 
-            string svgContent = _processor.ReplacePlaceholdersInSvg(inputFilePath, replacementValues);
+            var svgContent = _processor.ReplacePlaceholders(inputFilePath, replacementValues,帳票種別.Sample);
 
             // SVGコンテンツをHTTPレスポンスとして返す
-            return View((object)svgContent);
+            return View(svgContent);
         }
 
         [HttpPost]
